@@ -1,0 +1,27 @@
+{
+  "name": "module-inspector",
+  "version": "1.0.0",
+  "description": "inspect module performance",
+  "main": "index.js",
+  "scripts": {
+    "test": "TODO"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EvgeniLeonti/module-inspector.git"
+  },
+  "keywords": [
+    "inspector",
+    "performance",
+    "module"
+  ],
+  "author": "Evgeni Leonti",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/EvgeniLeonti/module-inspector/issues"
+  },
+  "homepage": "https://github.com/EvgeniLeonti/module-inspector#readme",
+  "dependencies": {
+    "babylon": "6.18.0"
+  }
+}
