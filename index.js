@@ -62,8 +62,7 @@ inspector.inspect = (module) => {
                     // caller is main
                 }
                 else {
-                    functionCall.functionCallerName = callerName;
-
+                    functionCall.callerName = callerName;
                 }
 
                 // set arguments

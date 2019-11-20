@@ -52,7 +52,7 @@ let inspectResult = inspector.inspect(request);
     },
     {
         "functionName": "get",
-        "functionCallerName": "outerTestFunc",
+        "callerName": "outerTestFunc",
         "functionArguments": [
             {
                 "parameter": "uri",
@@ -64,7 +64,7 @@ let inspectResult = inspector.inspect(request);
     },
     {
         "functionName": "get",
-        "functionCallerName": "testFunc",
+        "callerName": "testFunc",
         "functionArguments": [
             {
                 "parameter": "uri",
